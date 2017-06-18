@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+
+my only repository
+
+
+this is my firdt repository using Github
